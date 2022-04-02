@@ -63,12 +63,15 @@ I used stackOverflow, w3schools, and Mozilla HTML documentation to help complete
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
+One of the biggest challenges in creating this submission was my inexperience in HTML and CSS. I have only spent a limited amount of time coding in these languages compared to how much I have spent in Java or C and that led to some challenges along the way. I was able to pull on my limited experience to get most of the submission completed, but when adding in the optional features, I started to face some issues. Specifically, my biggest issue was connecting JavaScript and HTML together. Coding the logic and functionality in JavaScript wasn’t too difficult because a lot of my Java and C knowledge carries over to JavaScript, but there were some aspects I didn’t know how to code. To overcome this, I used the internet to find out how certain functionalities work in HTML and applied my own understanding of common programming functionalities to try to relate and understand HTML better. I have found that all programming languages have to follow a similar logical structure and have a lot of overlapping ideas that can relate from one language to another. Using this idea, I was able to quickly understand how HTML and CSS work and how they can work together with JavaScript. JavaScript can be quite tricky at times, too and I had to research how to use some functions, like setInterval and clearInterval. In the end, I was able to successfully use HTML, CSS, and JS even with my limited experience due to my knowledge of other languages.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+Most of the questions I have about web development going forward are just about how to improve websites or how to properly use web-related libraries and languages. How do we utilize libraries like React, jQuery, etc. and how can they be effective? I have a little bit of experience using node.js and mongoDB, but I didn't learn how to use them extensively, so how can these frameworks improve our websites and help create effective websites? How do we create more secure websites? How can we encrypt and secure user's data on a website? What’s the next step in improving my web development skills? 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+If I had a few more hours to work on this project, I would spend time improving the playability of the game and do a lot more testing to make sure the game plays well and each feature works as intended even in rare situations. I would want to improve the look of the game and make it look more appealing and polished. I would add in different game modes to make the game more replayable, such as an unlimited mode where the pattern continues forever or different sizes like a 2x2, 3x3, etc. With the unlimited mode, I would introduce a leaderboard, so the user can try for a high score. Having different difficulty levels would be a good additional feature as well. Lowering the amount of time the user has to guess or making the playback time shorter would be a good way to change the difficulty level of the game.
 
 
 
