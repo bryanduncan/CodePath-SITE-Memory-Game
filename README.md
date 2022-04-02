@@ -58,7 +58,8 @@ Win
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I used stackOverflow, w3schools, and Mozilla HTML documentation to help complete my submission.]
+
+I used stackOverflow, w3schools, and Mozilla HTML documentation to help complete my submission.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
