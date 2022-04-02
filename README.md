@@ -41,15 +41,19 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Basic Functions
+
 ![](http://g.recordit.co/Q2UmoT0eD3.gif)
 
 3 Tries and Lose
+
 ![](http://g.recordit.co/vaY2hlINHJ.gif)
 
 Playback speeds up
+
 ![](http://g.recordit.co/lejxiYsVQX.gif)
 
 Win
+
 ![](http://g.recordit.co/Q6AsQRD7Hh.gif)
 
 ## Reflection Questions
