@@ -6,7 +6,7 @@ Submitted by: **Bryan Duncan**
 
 Time spent: **4** hours spent in total
 
-Link to project: [https://glitch.com/edit/#!/majestic-aback-iguanodon](https://glitch.com/edit/#!/majestic-aback-iguanodon)
+Link to project: (https://glitch.com/edit/#!/majestic-aback-iguanodon)
 
 ## Required Functionality
 
